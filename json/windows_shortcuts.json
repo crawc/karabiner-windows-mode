@@ -16,7 +16,8 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
-                        "^com\\.microsoft\\.rdc\\.macos$"
+                        "^com\\.microsoft\\.rdc\\.macos$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -68,7 +69,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -115,7 +117,8 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
-                        "^com\\.microsoft\\.rdc\\.macos$"
+                        "^com\\.microsoft\\.rdc\\.macos$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -167,7 +170,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -219,7 +223,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -268,7 +273,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -320,7 +326,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -373,7 +380,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -427,7 +435,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -476,7 +485,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -528,7 +538,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -581,7 +592,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -635,7 +647,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -687,7 +700,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -741,7 +755,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -793,7 +808,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -847,7 +863,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -899,7 +916,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -951,7 +969,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1003,7 +1022,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1078,7 +1098,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1130,7 +1151,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1182,7 +1204,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1274,7 +1297,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1326,7 +1350,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1484,7 +1509,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1536,7 +1562,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1588,7 +1615,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1640,7 +1668,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1692,7 +1721,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1744,7 +1774,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1796,7 +1827,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1848,7 +1880,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1940,7 +1973,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -1992,7 +2026,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2044,7 +2079,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2096,7 +2132,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2148,7 +2185,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2197,7 +2235,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2246,7 +2285,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2295,7 +2335,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2344,7 +2385,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2393,7 +2435,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2442,7 +2485,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2491,7 +2535,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2540,7 +2585,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2584,7 +2630,8 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
-                        "^com\\.microsoft\\.rdc\\.macos$"
+                        "^com\\.microsoft\\.rdc\\.macos$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2636,7 +2683,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2688,7 +2736,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2738,7 +2787,8 @@
                         "^co\\.zeit\\.hyper$",
                         "^com\\.googlecode\\.iterm2$",
                         "^com\\.apple\\.Terminal$",
-                        "^com\\.github\\.wez\\.wezterm$"
+                        "^com\\.github\\.wez\\.wezterm$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
@@ -2782,7 +2832,8 @@
                         "^com\\.sublimetext\\.3$",
                         "^net\\.kovidgoyal\\.kitty$",
                         "^com\\.citrix\\.XenAppViewer$",
-                        "^com\\.microsoft\\.rdc\\.macos$"
+                        "^com\\.microsoft\\.rdc\\.macos$",
+                        "^com\\.teamviewer\\.TeamViewer$"
                      ],
                      "file_paths": [
                         "Chrome Remote Desktop\\.app"
